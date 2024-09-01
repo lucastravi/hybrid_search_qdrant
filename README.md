@@ -1,3 +1,5 @@
+#### Certifique-se de criar as chaves de acesso à API para os modelos do Gemini e Jina
+
 --------
 #### 1. Iniciando Qdrant
 ```
