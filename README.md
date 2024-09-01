@@ -1,4 +1,3 @@
-Passo a Passo para enriquecer com polos e leads (localmente)
 --------
 #### 1. Iniciando Qdrant
 ```
